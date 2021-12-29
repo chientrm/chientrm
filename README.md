@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Compile and embed V8 engine in C++ application on MacOS Big Sur](https://chientrm.medium.com/compile-and-embed-v8-engine-in-c-application-on-macos-big-sur-48587575fddf?source=rss-25b5c397d3ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
