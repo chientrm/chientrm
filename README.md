@@ -13,6 +13,8 @@
 
 - 👯 I’m looking to collaborate on [escript](https://github.com/chientrm/es)
 
+- 🤝 I’m looking for help with [escript](http://github.com/chientrm/es)
+
 - 👨‍💻 All of my projects are available at [https://github.com/chientrm?tab=repositories](https://github.com/chientrm?tab=repositories)
 
 - 💬 Ask me about **whatever you love**
@@ -35,9 +37,10 @@
 <a href="https://stackoverflow.com/users/15530167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15530167" height="30" width="40" /></a>
 <a href="https://kaggle.com/tranmchien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tranmchien" height="30" width="40" /></a>
 <a href="https://medium.com/@chientrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chientrm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCx-OKIX3EZ_G-MKyUnBe0zw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucx-okix3ez_g-mkyunbe0zw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucx-okix3ez_g-mkyunbe0zw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucx-okix3ez_g-mkyunbe0zw" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chientrm/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chientrm/profile" height="30" width="40" /></a>
 <a href="https://discord.gg/465qH6x6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="465qH6x6" height="30" width="40" /></a>
+<a href="/https://medium.com/feed/@chientrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@chientrm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
