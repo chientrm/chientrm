@@ -4,6 +4,7 @@
 - What can be automated, must be automated
 - What can be optimized, must be optimized
 - What can be simplified, must be simplified
+- What can be synthesized, must be synthesized
 - The best part is no part, the best work is no work
 - Boilerplate not allowed
 - Singularity non-exist
