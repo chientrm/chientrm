@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chien Tran</h1>
 <h3 align="center">A peasant who loves coding and reading</h3>
 
+- What can be automated, must be automated
+- What can be optimized, must be optimized
+- The best part is no part, the best work is no work
+- Boilerplate not allowed
+- Singularity non-exist
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chientrm&label=Profile%20views&color=0e75b6&style=flat" alt="chientrm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chientrm" alt="chientrm" /></a> </p>
