@@ -8,12 +8,15 @@
 - The best part is no part, the best work is no work
 - Boilerplate not allowed
 - Singularity non-exist
+- Best practices never work
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chientrm&label=Profile%20views&color=0e75b6&style=flat" alt="chientrm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chientrm" alt="chientrm" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chientrm" target="blank"><img src="https://img.shields.io/twitter/follow/chientrm?logo=twitter&style=for-the-badge" alt="chientrm" /></a> </p>
+
+- 🐸 Learning how to build quick web app
 
 - 🔭 I’m currently working on [escript](https://github.com/chientrm/es)
 
