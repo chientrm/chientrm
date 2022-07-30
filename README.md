@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chien Tran</h1>
 <h3 align="center">A peasant who loves coding and reading</h3>
 
-- What can be automated, must be automated
-- What can be optimized, must be optimized
-- What can be simplified, must be simplified
-- What can be synthesized, must be synthesized
-- The best part is no part, the best work is no work
+- automated, optimized, simplified, synthesized
+- Best part is no part, best work is no work
 - Boilerplate not allowed
 - Singularity non-exist
 - Best practices never work
