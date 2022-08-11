@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chien Tran</h1>
 <h3 align="center">A peasant who loves coding and reading</h3>
 
-- automated, optimized, simplified, synthesized
+- automated, optimized, simplified, short-lived
 - Best part is no part, best work is no work
 - Boilerplate not allowed
 - Singularity non-exist
