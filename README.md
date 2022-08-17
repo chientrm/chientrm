@@ -5,6 +5,7 @@
 - Best part is no part, best work is no work
 - Boilerplate not allowed
 - Singularity non-exist
+- Generality infeasible
 - Best practices never work
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chientrm&label=Profile%20views&color=0e75b6&style=flat" alt="chientrm" /> </p>
