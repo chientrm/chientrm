@@ -16,13 +16,13 @@
 
 - 🐸 Learning how to build quick web app
 
-- 🔭 I’m currently working on [escript](https://github.com/chientrm/es)
+- 🔭 I’m currently working on [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
 
 - 🌱 I’m currently learning **EcmaScript, WebGL, WebRTC, Deep Learning**
 
-- 👯 I’m looking to collaborate on [escript](https://github.com/chientrm/es)
+- 👯 I’m looking to collaborate on [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
 
-- 🤝 I’m looking for help with [escript](http://github.com/chientrm/es)
+- 🤝 I’m looking for help with [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
 
 - 👨‍💻 All of my projects are available at [https://github.com/chientrm?tab=repositories](https://github.com/chientrm?tab=repositories)
 
