@@ -36,11 +36,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Totally madness dependencies management with Maven](https://chientrm.medium.com/totally-madness-dependencies-management-with-maven-3196a6f7d84?source=rss-25b5c397d3ab------2)
 - [Use SvelteKit as a handler in the ExpressJs project](https://chientrm.medium.com/use-sveltekit-as-a-handler-in-the-expressjs-project-15524b01128f?source=rss-25b5c397d3ab------2)
 - [The brief history of human group-thinking creeds](https://chientrm.medium.com/the-brief-history-of-human-group-thinking-creeds-50279b6b845c?source=rss-25b5c397d3ab------2)
 - [Where does sin come from?](https://chientrm.medium.com/where-does-sin-come-from-87345f53696b?source=rss-25b5c397d3ab------2)
 - [How to build an optimized website in 2022, Part 1 — Deployment](https://chientrm.medium.com/how-to-build-an-optimized-website-in-2022-part-1-deployment-923536a25b67?source=rss-25b5c397d3ab------2)
-- [Compile and embed V8 engine in C++ application on MacOS Big Sur](https://chientrm.medium.com/compile-and-embed-v8-engine-in-c-application-on-macos-big-sur-48587575fddf?source=rss-25b5c397d3ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
