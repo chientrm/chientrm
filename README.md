@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chien Tran</h1>
-<h3 align="center">Space is such an emptiness, time is such an delusion.</h3>
+<h3 align="center">Space is such an emptiness, time is such a delusion.</h3>
 
 - automated, optimized, simplified, short-lived
 - Best part is no part, best work is no work
