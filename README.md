@@ -31,8 +31,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chientrm/](https://www.linkedin.com/in/chientrm/)
 
-- ⚡ Fun fact **I am just an another regular mammal!**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Totally madness dependencies management with Maven](https://chientrm.medium.com/totally-madness-dependencies-management-with-maven-3196a6f7d84?source=rss-25b5c397d3ab------2)
