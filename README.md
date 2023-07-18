@@ -14,9 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/chientrm" target="blank"><img src="https://img.shields.io/twitter/follow/chientrm?logo=twitter&style=for-the-badge" alt="chientrm" /></a> </p>
 
-- 🐸 Learning how to build quick web app
+- 🐸 Learning how to build quick web app [chientrm.com](https://chientrm.com)
 
-- 🔭 I’m currently working on [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
+- 🔭 I’m currently working on [YouWave](https://play.google.com/store/apps/details?id=site.chientrm.youwave), [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
 
 - 🌱 I’m currently learning **EcmaScript, WebGL, WebRTC, Deep Learning**
 
