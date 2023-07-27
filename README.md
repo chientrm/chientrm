@@ -7,8 +7,7 @@
 - Singularity non-exist
 - Generality infeasible
 - Best practices never works
-- If the education system is good, prisons become schools.
-- If the education system is bad, schools become prisons.
+- If the education system is good, prisons become schools. If the education system is bad, schools become prisons.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chientrm&label=Profile%20views&color=0e75b6&style=flat" alt="chientrm" /> </p>
 
