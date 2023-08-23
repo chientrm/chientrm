@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chien Tran</h1>
+<h1 align="center">Hi 👋, I'm chientrm (name is Chien)</h1>
 <h3 align="center">Time is such a delusion.</h3>
 
 - Learning is an illusion to self-reward auxiliary
