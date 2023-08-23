@@ -17,13 +17,13 @@
 
 - 🐸 Learning how to build quick web app [chientrm.com](https://chientrm.com)
 
-- 🔭 I’m currently working on [YouWave](https://play.google.com/store/apps/details?id=site.chientrm.youwave), [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
+- 🔭 I’m currently working on [ShitpostAI](https://shitpostai.com), [wrangler-proxy](https://github.com/chientrm/wrangler-proxy), [YouWave](https://play.google.com/store/apps/details?id=site.chientrm.youwave), [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
 
 - 🌱 I’m currently learning **EcmaScript, WebGL, WebRTC, Deep Learning**
 
-- 👯 I’m looking to collaborate on [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
+- 👯 I’m looking to collaborate on [wrangler-proxy](https://github.com/chientrm/wrangler-proxy), [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
 
-- 🤝 I’m looking for help with [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
+- 🤝 I’m looking for help with [wrangler-proxy](https://github.com/chientrm/wrangler-proxy), [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
 
 - 👨‍💻 All of my projects are available at [https://github.com/chientrm?tab=repositories](https://github.com/chientrm?tab=repositories)
 
