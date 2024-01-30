@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chientrm" alt="chientrm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chientrm" target="blank"><img src="https://img.shields.io/twitter/follow/chientrm?logo=twitter&style=for-the-badge" alt="chientrm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/realchientrm" target="blank"><img src="https://img.shields.io/twitter/follow/realchientrm?logo=twitter&style=for-the-badge" alt="chientrm" /></a> </p>
 
 - 🐸 Learning how to build quick web app [chientrm.com](https://chientrm.com)
 
