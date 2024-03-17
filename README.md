@@ -34,11 +34,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Corporatocracy, The Messiah, and AGI: Can Human Freedom Survive?](https://chientrm.medium.com/corporatocracy-the-messiah-and-agi-can-human-freedom-survive-c85c7895c382?source=rss-25b5c397d3ab------2)
 - [Snowflake id generation for serverless runtime](https://chientrm.medium.com/snowflake-id-generation-for-serverless-runtime-e3f354319e39?source=rss-25b5c397d3ab------2)
 - [My son](https://chientrm.medium.com/my-son-68c0e1ff3d10?source=rss-25b5c397d3ab------2)
 - [Nirvana](https://chientrm.medium.com/nirvana-870bab70a94a?source=rss-25b5c397d3ab------2)
 - [Totally madness dependencies management with Maven](https://chientrm.medium.com/totally-madness-dependencies-management-with-maven-3196a6f7d84?source=rss-25b5c397d3ab------2)
-- [Use SvelteKit as a handler in the ExpressJs project](https://chientrm.medium.com/use-sveltekit-as-a-handler-in-the-expressjs-project-15524b01128f?source=rss-25b5c397d3ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
