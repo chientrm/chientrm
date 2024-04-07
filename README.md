@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Audiberg](https://audiberg.com), [ShitpostAI](https://shitpostai.com), [wrangler-proxy](https://github.com/chientrm/wrangler-proxy), [YouWave](https://play.google.com/store/apps/details?id=site.chientrm.youwave), [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
 
-- 🌱 I’m currently learning **EcmaScript, WebGL, WebRTC, Deep Learning**
+- 🌱 I’m currently learning **To build Startup**
 
 - 👯 I’m looking to collaborate on [wrangler-proxy](https://github.com/chientrm/wrangler-proxy), [escript](https://github.com/chientrm/es), [podie](https://podie.pages.dev/), [kadb](https://github.com/chientrm/kadb)
 
