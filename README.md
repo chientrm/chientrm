@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/realchientrm" target="blank"><img src="https://img.shields.io/twitter/follow/realchientrm?logo=twitter&style=for-the-badge" alt="chientrm" /></a> </p>
 
-- 🐸 Learning how to build quick web app [chientrm.com](https://chientrm.com)
+- 🐸 Learning how to build quick web app [chientrm.com](https://chientrm.com), [VoteMyAss.com](votemyass.com)
 
 - 🔭 I’m currently working on [Audiberg](https://audiberg.com), [XTuber](https://github.com/chientrm/xtuber) [ShitpostAI](https://shitpostai.com), [wrangler-proxy](https://github.com/chientrm/wrangler-proxy), [escript](https://github.com/chientrm/es), [kadb](https://github.com/chientrm/kadb)
 
