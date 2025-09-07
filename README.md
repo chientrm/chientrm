@@ -34,11 +34,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to download from over 1800 websites without technical understanding?](https://chientrm.medium.com/how-to-download-from-over-1800-websites-without-technical-understanding-a03c54d75827?source=rss-25b5c397d3ab------2)
 - [Introducing Native Fetch: Professional Media Downloading for Everyone](https://chientrm.medium.com/introducing-native-fetch-professional-media-downloading-for-everyone-9e7863baf053?source=rss-25b5c397d3ab------2)
 - [Native Fetch: The Ultimate Video &amp; Audio Downloader for Windows, macOS, and Linux](https://chientrm.medium.com/native-fetch-the-ultimate-video-audio-downloader-for-windows-macos-and-linux-af80f1391f8e?source=rss-25b5c397d3ab------2)
 - [Corporatocracy, The Messiah, and AGI: Can Human Freedom Survive?](https://chientrm.medium.com/corporatocracy-the-messiah-and-agi-can-human-freedom-survive-c85c7895c382?source=rss-25b5c397d3ab------2)
 - [Snowflake id generation for serverless runtime](https://chientrm.medium.com/snowflake-id-generation-for-serverless-runtime-e3f354319e39?source=rss-25b5c397d3ab------2)
-- [My son](https://chientrm.medium.com/my-son-68c0e1ff3d10?source=rss-25b5c397d3ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
