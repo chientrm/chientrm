@@ -34,11 +34,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Downloading TikTok Videos Without Watermark: Tools &amp; Tips](https://chientrm.medium.com/downloading-tiktok-videos-without-watermark-tools-tips-ba6b6283ffbf?source=rss-25b5c397d3ab------2)
 - [I made some sales with Native Fetch downloader without knowing where it come from](https://chientrm.medium.com/i-made-some-sales-with-native-fetch-downloader-without-knowing-where-it-come-from-5baf692a2ba5?source=rss-25b5c397d3ab------2)
 - [How to download from over 1800 websites without technical understanding?](https://chientrm.medium.com/how-to-download-from-over-1800-websites-without-technical-understanding-a03c54d75827?source=rss-25b5c397d3ab------2)
 - [Introducing Native Fetch: Professional Media Downloading for Everyone](https://chientrm.medium.com/introducing-native-fetch-professional-media-downloading-for-everyone-9e7863baf053?source=rss-25b5c397d3ab------2)
 - [Native Fetch: The Ultimate Video &amp; Audio Downloader for Windows, macOS, and Linux](https://chientrm.medium.com/native-fetch-the-ultimate-video-audio-downloader-for-windows-macos-and-linux-af80f1391f8e?source=rss-25b5c397d3ab------2)
-- [Corporatocracy, The Messiah, and AGI: Can Human Freedom Survive?](https://chientrm.medium.com/corporatocracy-the-messiah-and-agi-can-human-freedom-survive-c85c7895c382?source=rss-25b5c397d3ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
